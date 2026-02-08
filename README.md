@@ -1,4 +1,4 @@
-# App Web - Loja Alura
+# App Web - Loja Go
 
 Sistema web de gerenciamento de produtos desenvolvido em Go.
 
